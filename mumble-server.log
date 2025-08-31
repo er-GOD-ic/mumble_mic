@@ -1,0 +1,28 @@
+<X>2025-08-06 11:35:18.914 SSL: OpenSSL version is 'OpenSSL 3.5.1 1 Jul 2025'
+<W>2025-08-06 11:35:18.915 Initializing settings from /home/ergodic/.config/mumble-server/mumble-server.ini (basepath /home/ergodic/.config/mumble-server)
+<W>2025-08-06 11:35:18.915 MetaParams: TLS cipher preference is "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA:AES256-SHA:AES128-SHA"
+<W>2025-08-06 11:35:18.938 ServerDB: Opened SQLite database /home/ergodic/Repos/mic/mumble-server.sqlite
+<W>2025-08-06 11:35:18.938 ServerDB: Using SQLite's default rollback journal.
+<W>2025-08-06 11:35:18.939 MumbleServerIce: Endpoint "tcp -h 127.0.0.1 -p 6502 -t 60000" running
+<W>2025-08-06 11:35:18.939 Murmur 1.5.735 running on Linux: Arch Linux [x64]: Booting servers
+<W>2025-08-06 11:35:18.941 1 => Server listening on 0.0.0.0:64738
+<W>2025-08-06 11:35:18.943 1 => Registering zeroconf service...
+<W>2025-08-06 11:35:18.946 1 => Not registering server as public
+<W>2025-08-06 11:35:23.930 1 => <0:(-1)> New connection: [2001:318:6202:b1d:edc5:5235:c496:8650]:60386
+<W>2025-08-06 11:35:23.950 1 => <0:(-1)> Connection closed: The remote host closed the connection [1]
+<W>2025-08-06 11:35:23.955 1 => <0:(-1)> New connection: [2001:318:6202:b1d:edc5:5235:c496:8650]:60387
+<W>2025-08-06 11:35:23.978 1 => <0:(-1)> Client version 1.2.4 (iOS 18.5: Mumble for iOS 1003001001)
+<W>2025-08-06 11:35:23.980 1 => Starting voice thread
+<W>2025-08-06 11:35:23.982 1 => CELT codec switch ffffffff8000000b 0 (prefer ffffffff8000000b) (Opus 1)
+<W>2025-08-06 11:35:23.983 1 => <1:eric(-1)> Authenticated
+<W>2025-08-06 11:35:24.249 1 => <0:(-1)> New connection: [0::1]:40586
+<W>2025-08-06 11:35:24.255 1 => <0:(-1)> Client version 1.5.735 (Linux Arch Linux [x64]: 1.5.735)
+<W>2025-08-06 11:35:24.256 1 => <2:ergodic(-1)> Authenticated
+<W>2025-08-06 11:39:02.571 1 => <1:eric(-1)> Connection closed: The remote host closed the connection [1]
+<W>2025-08-06 12:19:50.934 Killing running servers
+<W>2025-08-06 12:19:50.936 1 => Removed all Ice ServerCallbacks
+<W>2025-08-06 12:19:50.939 1 => Unregistering zeroconf service...
+<W>2025-08-06 12:19:50.941 1 => Ending voice thread
+<W>2025-08-06 12:19:50.943 1 => Stopped
+<W>2025-08-06 12:19:50.943 Shutting down
+<W>2025-08-06 12:19:50.943 MumbleServerIce: Shutdown complete
